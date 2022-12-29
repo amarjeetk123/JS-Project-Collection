@@ -12,7 +12,6 @@ Source Code:- [Click Here!](https://github.com/amarjeetk123/Music-Player)
 
 Live Link:-  [Click Here!](https://amarjeet-music-player.netlify.app/)
 
-
 ### Project 02:- Random Quote Generator.
 Source Code:- [Click Here!](https://github.com/amarjeetk123/Random-Quote-Generator)
 
